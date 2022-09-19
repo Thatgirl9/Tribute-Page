@@ -1,0 +1,30 @@
+#main{
+    background-color:wheat;
+    border-radius:20px;
+    margin:20px;
+    padding:10px;
+}
+
+#title{
+    text-align: center;
+    margin:20px;
+    font-family: 'Fjalla One', sans-serif;
+}
+#year{
+    text-align: center;
+}
+
+#image{
+    display:block;
+    border-radius: 10px;
+    max-width:100%;
+    height:auto;
+}
+#tribute-info{
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+    margin:20px;
+}
